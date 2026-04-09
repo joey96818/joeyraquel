@@ -40,3 +40,9 @@ Nuclear Facility (Palo Verde) · Cisco Enterprise
 - LinkedIn: linkedin.com/in/joeyraquel
 - Email: joeyraquel@gmail.com
 - Location: Honolulu, HI
+
+## 📓 Lab Log
+
+| Date | What I Did |
+|------|------------|
+| 2026-04-08 | Installed Proxmox VE 8.4, created VMs, configured VLANs, deployed pfSense, Kali, Security Onion, Wazuh SIEM |
